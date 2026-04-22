@@ -99,6 +99,7 @@ How It Works:
 6. Displays summary and file size
 
 Output:
+<img width="411" height="221" alt="image" src="https://github.com/user-attachments/assets/a3bc9020-0b1a-43dc-ad09-559c126e8407" />
 
 
 
